@@ -1,0 +1,125 @@
+body {
+    background-image: url(imagens/823285-gray-wallpaper.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: white;
+    font-family: 'oba';
+}
+@font-face {
+    font-family: oba;
+    src: url(fontes/WixMadeforDisplay-VariableFont_wght.ttf);
+}
+
+
+
+
+header {
+text-align: center;
+text-shadow: 4px 2px 1px #000;
+}
+
+.logo {
+
+}
+
+.titulo{
+color: gray;
+font-size: 70px;
+text-shadow: 1px 2px 3px #000;
+text-shadow: 4px 2px 1px #000;
+}
+
+.menu {
+
+}
+
+.item-menu{
+font-size: 42px;
+text-align: center;
+margin-top: 9px;
+text-shadow: 4px 2px 1px #000;
+}
+
+.item-menu a{
+
+}
+
+.item-menu :hover{
+    color:  rgb(177, 157, 43);
+
+}
+
+.item-menu a:visited{
+
+}
+
+main{
+
+}
+
+section{
+
+}
+p{
+font-size: 42px;
+text-shadow: 4px 2px 1px #000;
+margin-top: 55px;
+margin-left: 70px;
+margin-right: 70px;
+color: rgb(238, 202, 0);
+}
+
+
+
+.titulo-section {
+font-size: 45px;
+margin-left: 10px;
+margin-left: ;
+margin-top: 30px;
+text-shadow: 1px 2px 3px #000;
+text-align: center;
+color: rgb(219, 44, 44);
+}
+
+.conteudos {
+
+}
+
+.item-conteúdo {
+
+}
+
+.titulo-conteúdo {
+
+}
+
+.imagem-conteúdo {
+
+}
+
+.desc-conteúdo {
+
+}
+
+footer {
+   
+}
+
+.logo-rodape {
+
+}
+
+.texto-rodape {
+    color: rgb(219, 44, 44);
+    text-shadow: 4px 2px 1px #000;
+}
+
+
+a{
+    Display: inline-block;
+    Text-decoration: none;
+    color: rgb(255, 217, 0);
+    text-shadow: 1px 2px 3px #000;
+}
+
